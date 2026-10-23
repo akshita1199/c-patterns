@@ -13,6 +13,7 @@ int main(){
         cout<<"*";
 
         if(row!=0){
+            // space
             for(int col=0; col<2*row-1; col++){
                 cout<<" ";
             }
